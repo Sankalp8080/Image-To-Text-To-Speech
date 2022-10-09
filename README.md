@@ -43,6 +43,15 @@ For Text To Speech
 ```
 
 
+## Code files
+Put this files under the **www** folder
+
++ index.html
++ index.css
++ index.js
+
+also extract **img.zip** into **img folder**
+
 ## Deployment
 
 Path of output file:
